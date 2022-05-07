@@ -16,7 +16,8 @@
 
 Используемые технологии: Postman, JMeter.
 
-Ссылка на репозиторий: https://github.com/Dmitruzd21/PostmanAndJMeter
+Ссылка на репозиторий:
+https://github.com/Dmitruzd21/PostmanAndJMeter
 
 **Курсовая работа по автоматизации (Java)**
 
@@ -24,7 +25,9 @@
 
 Используемые технологии: JUnit, Selenide, Allure, DbUtils, RestAssured.
 
-Ссылка на репозиторий: https://github.com/Dmitruzd21/aqa-qamid-diplom
+Ссылка на репозиторий:
+
+https://github.com/Dmitruzd21/aqa-qamid-diplom
 
 **Применение классов и методов в JavaScript на практике**
 
@@ -44,13 +47,19 @@
 
 Используемые технологии: методы асинхронного выполнения кода
 
-Сыылка на репозиторий: https://github.com/Dmitruzd21/alarm
+Ссылка на репозиторий:
 
----
+https://github.com/Dmitruzd21/alarm
 
 **Мануальное тестирование мобильных приложений**
 
-Собственный проекты (2022):
+Выполенено 7 заданий
+
+Ссылка на проекты: https://github.com/Dmitruzd21/MobileSoftwareTesting
+
+---
+
+## Собственные проекты (2022):
 
 **Frontend - разработка сайта для Chrome на ПК**
 
